@@ -21,7 +21,7 @@ This is a file where your custom JavaScript can go.
 
 ## app/styles/main.css
 
-This is a file where your custom CSS can go. You can place any Sass you wish to have compiled into the `styles` directory and renaming `main.css` to `main.scss` will cause Web Starter Kit to treat the file as Sass instead.
+This is a file where your custom CSS can go. You can place any Sass you wish to have compiled into the `styles` directory and renaming `main.scss` to `main.scss` will cause Web Starter Kit to treat the file as Sass instead.
 
 ## app/manifest.json
 

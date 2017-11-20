@@ -51,7 +51,7 @@ with:
 
 If you navigate to "app/styles/main.css" in your Text Editor (e.g Sublime Text), you will notice that it already contains some styles. These are for the default template that ships with Web Starter Kit. 
 
-We're going to rename our `app/styles/main.css` file to `app/styles/main.scss` so that Web Starter Kit treats it as a Sass file. No further changes are required to our `app/index.html`.
+We're going to rename our `app/styles/main.scss` file to `app/styles/main.scss` so that Web Starter Kit treats it as a Sass file. No further changes are required to our `app/index.html`.
 
 One final change for getting Sass working is adding the following line to the very top of `app/styles/main.scss`:
 
